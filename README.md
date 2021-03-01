@@ -53,7 +53,6 @@ install chai-json-schema under dev dependencices: npm install chai-json-schema -
 
 install chai-asserttype under dev dependencices: npm install chai-asserttype --save-dev
 
-There are three 3 javascript files i have created:
 
 Project Structure:
 
